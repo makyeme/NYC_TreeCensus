@@ -41,7 +41,7 @@ This project was created with:
 
 The entire data cleaning processes and generation of a CSV file was excuted through 5 functions as detailed below:
 NYC_TreeCensus.ipynb file contains all the codes for the above stated fucntions, 
-It is available at [Github/makyeme](https://github.com/makyeme/NYC_TreeCensus/blob/main/missing_data.PNG)
+It is available at [Github/makyeme](https://github.com/makyeme/NYC_TreeCensus/blob/main/NYC_TreeCensus.ipynb)
 
 ### i. getData() Function
 
