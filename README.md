@@ -41,7 +41,7 @@ This project was created with:
 
 The entire data cleaning processes and generation of a CSV file was excuted through 5 functions as detailed below:
 NYC_TreeCensus.ipynb file contains all the codes for the above stated fucntions, 
-It is available at [Github/makyeme](https://github.com/makyeme/NYC_motorCrashes/blob/main/NYC_crashes.ipynb)
+It is available at [Github/makyeme](https://github.com/makyeme/NYC_TreeCensus/blob/main/missing_data.PNG)
 
 ### i. getData() Function
 
@@ -68,7 +68,7 @@ when called, returns a dataframe with missing data percentage per variable and p
 The NYC tree census dataset obtained contains some missing values. Missing values per variable/column are shown below.
 
 
-![Optional Text](https://github.com/makyeme/NYC_motorCrashes/blob/main/Missing_data.PNG)
+![Optional Text](https://github.com/makyeme/NYC_TreeCensus/blob/main/missing_data.PNG)
 
 
 Libraries used: Matplotlib, Seaborn, Pandas
